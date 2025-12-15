@@ -1,0 +1,24 @@
+# virtua env
+hermes-env/
+venv/
+env/
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Variables de entorno
+.env
